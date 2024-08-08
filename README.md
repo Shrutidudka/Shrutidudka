@@ -1,7 +1,53 @@
-<h1 align="center">Hi 👋, I'm Shruti Dudka</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h1 align="center">Hi, I'm Shruti Dudka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🔭 I have worked on [Ecommerce-Sales-Analysis](https://github.com/Shrutidudka/Ecommerce-Sales-Analysis)
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Data+Analyst+Enthusiast+📊;Turning+Data+into+Actionable+Insights+💡;Solved+500%2B+Problems+in+Data+Science+💡)</div>](https://git.io/typing-svg)
+<hr>
+
+### 👨‍💻 About Me:
+<h4 align="center">
+Enthusiastic Data Analyst with hands-on experience in Power BI, SQL, Python, EDA, and machine learning. Skilled in transforming complex datasets into actionable insights for data-driven decision-making. Passionate about leveraging data to solve real-world problems in a dynamic, forward-thinking organization.</h4>
+<br/>
+
+- 🌱 Currently learning advanced machine learning techniques and deepening expertise in AI.
+- 📊 Experienced in handling large datasets and deriving actionable insights.
+- 💼 Proven track record in delivering successful projects within tight deadlines.
+- 🌍 Based in Pune, Maharashtra.
+- 📂 Explore all my projects [here](https://github.com/Shrutidudka?tab=repositories) 
+- 🔗 Visit my [Portfolio](a) for more details.
+- 📧 You can reach me at [shruti.dudka10@gmail.com](mailto:shruti.dudka10@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shruti-dudka/) 
+- 📧 Contact me at [Contact Me](https://forms.gle/ox4qSpE7WtzbWNsH8)
+<br />
+<hr>
+
+### 🚀 What Do I Do? <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50">
+
+<h4>✅ Passionate about turning data into actionable insights that drive success.</h4>
+<h4>✅ Always curious and eager to learn new data analysis techniques and tools.</h4>
+<h4>✅ Enjoy solving complex problems with creative data solutions.</h4>
+<h4>✅ Value teamwork and thrive in collaborative, dynamic settings.</h4>
+<h4>✅ Excited to connect and explore the transformative power of data together!</h4>
+
+<hr>
+
+### 🛠️ Tech Stack & Working Tools:
+<p>
+<div align="center" style="display: flex; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/sql-%230072C6.svg?style=for-the-badge&logo=sql&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%234F5D95.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/selenium-%234B9ED1.svg?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/seaborn-%231F77B4.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+<img src="https://img.shields.io/badge/beautifulsoup-%233C5C5C.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white" />
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/visual_studio_code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,8 +56,21 @@
 <a href="https://www.hackerrank.com/shruti_dudka10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shruti_dudka10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shruti_02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shruti_02_" height="30" width="40" /></a>
 </p>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>📊 My Github stats:</b></i> 
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutidudka&" alt="shrutidudka" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hashir-sheikh-da&count_private=true&theme=light&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hashir-sheikh-da&theme=light&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img className="github-top-langs" id="github-top-langs"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-sheikh-da&layout=compact&theme=light&hide_border=true"
+       alt="top languages" />
+</div>
