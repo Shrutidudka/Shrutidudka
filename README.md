@@ -57,20 +57,3 @@ Enthusiastic Data Analyst with hands-on experience in Power BI, SQL, Python, EDA
 <a href="https://www.leetcode.com/shruti_02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shruti_02_" height="30" width="40" /></a>
 </p>
 <hr>
-
-<p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>📊 My Github stats:</b></i> 
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashir-sheikh-da&count_private=true&theme=light&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hashir-sheikh-da&theme=light&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img className="github-top-langs" id="github-top-langs"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-sheikh-da&layout=compact&theme=light&hide_border=true"
-       alt="top languages" />
-</div>
