@@ -16,6 +16,7 @@ Enthusiastic Data Analyst with hands-on experience in Power BI, SQL, Python, EDA
 - 🔗 Visit my [Portfolio](https://shrutidudka.github.io/portfolio/) for more details.
 - 📧 You can reach me at [shruti.dudka10@gmail.com](mailto:shruti.dudka10@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shruti-dudka/) 
 - 📧 Contact me at [Contact Me](https://forms.gle/ox4qSpE7WtzbWNsH8)
+- 💼 Have a Look at my Resume [Resume](https://drive.google.com/file/d/19jNmHo2Ko69phYifdwMciNmOQPtVG_PG/view?usp=sharing) 
 <br />
 <hr>
 
