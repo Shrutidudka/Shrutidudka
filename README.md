@@ -13,7 +13,7 @@ Enthusiastic Data Analyst with hands-on experience in Power BI, SQL, Python, EDA
 - 💼 Proven track record in delivering successful projects within tight deadlines.
 - 🌍 Based in Pune, Maharashtra.
 - 📂 Explore all my projects [here](https://github.com/Shrutidudka?tab=repositories) 
-- 🔗 Visit my [Portfolio](a) for more details.
+- 🔗 Visit my [Portfolio](https://shrutidudka.github.io/portfolio/) for more details.
 - 📧 You can reach me at [shruti.dudka10@gmail.com](mailto:shruti.dudka10@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shruti-dudka/) 
 - 📧 Contact me at [Contact Me](https://forms.gle/ox4qSpE7WtzbWNsH8)
 <br />
