@@ -13,11 +13,20 @@ Enthusiastic Data Analyst with hands-on experience in Power BI, SQL, Python, EDA
 - 💼 Proven track record in delivering successful projects within tight deadlines.
 - 🌍 Based in Pune, Maharashtra.
 - 📂 Explore all my projects [here](https://github.com/Shrutidudka?tab=repositories) 
-- 🔗 Visit my [Portfolio](https://shrutidudka.github.io/portfolio/) for more details.
+- 🔗 Visit my [Portfolio](https://shrutidudka.github.io/Shrutidudka-Portfolio/) for more details.
 - 📧 You can reach me at [shruti.dudka10@gmail.com](mailto:shruti.dudka10@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shruti-dudka/) 
 - 📧 Contact me at [Contact Me](https://forms.gle/ox4qSpE7WtzbWNsH8)
 - 💼 Have a Look at my Resume [Resume](https://drive.google.com/file/d/19jNmHo2Ko69phYifdwMciNmOQPtVG_PG/view?usp=sharing) 
 <br />
+
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shruti-dudka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti-dudka" height="30" width="40" /></a>
+<a href="https://instagram.com/s_h_r_u__10_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_h_r_u__10_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shruti_dudka10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shruti_dudka10" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shruti_02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shruti_02_" height="30" width="40" /></a>
+</p>
 <hr>
 
 ### 🚀 What Do I Do? <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50">
@@ -50,11 +59,4 @@ Enthusiastic Data Analyst with hands-on experience in Power BI, SQL, Python, EDA
 </div>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shruti-dudka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti-dudka" height="30" width="40" /></a>
-<a href="https://instagram.com/s_h_r_u__10_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_h_r_u__10_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shruti_dudka10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shruti_dudka10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shruti_02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shruti_02_" height="30" width="40" /></a>
-</p>
-<hr>
+
